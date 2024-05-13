@@ -11,9 +11,9 @@ Equivalente SQL para CRUD:
       EX: "select * from minhatabela" - Seleciona os dados da tabela 
 
 - Update: 'update'
-      EX: "update minhatabela set ? where id - ?" - Atualiza os dados da tabela
+      EX: "update minhatabela set ? where id = ?" - Atualiza os dados da tabela
 
 - Delete: 'delete'
-      EX: "delete from minhatabela where id = ? =" - Apaga o registro da tabela
+      EX: "delete from minhatabela where id = ?" - Apaga o registro da tabela
 _____________________________________________________________________________________________________
 Projeto utilizando o MySQL
